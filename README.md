@@ -14,7 +14,6 @@
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" alt="Joao-char" src="https://github.com/joaoeduardogomes/joaoeduardogomes/blob/main/char.gif?raw=true" width="150" height="150">
 </div>
 </div>
   
@@ -25,7 +24,8 @@
     <a href = "mailto:joaogomes.trad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-gomes-33868b14b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
+  <img align="right" alt="Joao-char" src="https://github.com/joaoeduardogomes/joaoeduardogomes/blob/main/char.gif?raw=true" width="150" height="150">
+
 ##
   
 ### 🕹 Playing on:
