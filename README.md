@@ -4,10 +4,9 @@
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I like to write stories sometimes
 
- <div style="display: inline-block">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoeduardogomes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardogomes&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoeduardogomes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardogomes&layout=compact&langs_count=7&theme=vue-dark"/>
+
  
 <div style="display: inline-block">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
