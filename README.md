@@ -13,7 +13,7 @@
 <div style="display: inline-block">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
    <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Joao-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Joao-Python" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"> </a>
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Joao-Python" src="hhttps://icongr.am/devicon/python-original.svg?size=45&color=currentColor"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </a>
 </div>
 
