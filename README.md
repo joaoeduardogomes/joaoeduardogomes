@@ -4,8 +4,8 @@
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I like to write stories sometimes
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoeduardogomes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardogomes&layout=compact&langs_count=7&theme=vue-dark"/>
+  <span><img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoeduardogomes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/> </span>
+  <span><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardogomes&layout=compact&langs_count=7&theme=vue-dark"/> </span>
 
  
 <div style="display: inline-block">
