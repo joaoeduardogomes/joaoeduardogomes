@@ -2,7 +2,7 @@
 
 - 📘 I’m currently learning: **Python**🐍, **JavaScript**
 - 😃 Pronouns: he/him
-- 📚 Fun fact: I like to write stories sometimes
+- 📚 Fun fact: I enjoy writing stories sometimes
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoeduardogomes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
