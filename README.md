@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently learning: **Python**🐍, **JavaScript**
+- 📘 I’m currently learning: **JavaScript**, **C#**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
@@ -15,6 +15,7 @@
    <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Joao-CSS" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=45&color=currentColor"></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Joao-Python" src="https://icongr.am/devicon/python-original.svg?size=45&color=currentColor"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor"></a>
+ <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Joao-CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=45&color=currentColor"></a>
 </div>
 
   
