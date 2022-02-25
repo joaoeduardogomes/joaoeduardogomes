@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently learning: **JavaScript**, **C#**
+- 📘 I’m currently learning: **C#**, **React**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
@@ -18,6 +18,10 @@
  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Joao-CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=45&color=currentColor"></a>
 </div>
 
+<div style="display: inline-block" align="center">
+  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
+</div>
+  
   
 ##
   
