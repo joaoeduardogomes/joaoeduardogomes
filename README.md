@@ -11,26 +11,28 @@
 
  
 <div style="display: inline-block" align="center">
- > HTML
+ <HTML>
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Joao-HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=45&color=currentColor"></a>
  
- > CSS
+  <CSS>
    <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Joao-CSS" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=45&color=currentColor"></a>
  
- > Python
+<Python>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Joao-Python" src="https://icongr.am/devicon/python-original.svg?size=45&color=currentColor"></a>
  
- > JavaScript
+<JavaScript>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor"></a>
  
- > Cpp
+<Cpp>
  <a href="https://docs.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank"><img align="center" alt="Joao-Cpp" src="https://icongr.am/devicon/cplusplus-original.svg?size=45&color=currentColor"></a>
  
- > Csharp
+<Csharp>
  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Joao-CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=45&color=currentColor"></a>
 </div>
 
+<FRAMEWORKS>
 <div style="display: inline-block" align="center">
+<React>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
 </div>
   
