@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently learning: **C++**, **MySQL**
+- 📘 I’m currently learning: **Golang**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
@@ -28,6 +28,9 @@
  
 <Csharp>
  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Joao-CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=45&color=currentColor"></a>
+ 
+<GOLANG>
+ <a href="https://go.dev" target="_blank"><img align="center" alt="Joao-Golang" src="https://icongr.am/devicon/go-original.svg?size=45&color=currentColor"></a>
 </div>
 
 <FRAMEWORKS>
@@ -35,7 +38,12 @@
 <React>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
 </div>
-  
+ 
+ <FERRAMENTAS>
+ <div style="display: inline-block" align="center">
+ <MYSQL>
+  <a href="https://www.mysql.com" target="_blank"><img align="center" alt="Joao-MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=45&color=currentColor"></a>
+ </div>
   
 ##
   
