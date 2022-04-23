@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently learning: **Golang**
+- 📘 I’m currently learning: **Rust**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
@@ -31,6 +31,9 @@
  
 <GOLANG>
  <a href="https://go.dev" target="_blank"><img align="center" alt="Joao-Golang" src="https://icongr.am/devicon/go-original.svg?size=45&color=currentColor"></a>
+ 
+ <RUST>
+ <a href="https://www.rust-lang.org" target="_blank"><img align="center" alt="Joao-Rust" src="https://icongr.am/simple/rust.svg?size=46&color=currentColor&colored=false"></a>
 </div>
 
 <FRAMEWORKS>
