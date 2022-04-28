@@ -44,6 +44,10 @@
  
  <FERRAMENTAS>
  <div style="display: inline-block" align="center">
+  
+  <BOOTSTRAP>
+  <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=7611f7"></a>
+  
  <MYSQL>
   <a href="https://www.mysql.com" target="_blank"><img align="center" alt="Joao-MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=45&color=currentColor"></a>
  </div>
