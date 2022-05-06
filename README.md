@@ -29,26 +29,34 @@
 <Csharp>
  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Joao-CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=45&color=currentColor"></a>
  
-<GOLANG>
+<Golang>
  <a href="https://go.dev" target="_blank"><img align="center" alt="Joao-Golang" src="https://icongr.am/devicon/go-original.svg?size=45&color=currentColor"></a>
  
- <RUST>
+ <Rust>
  <a href="https://www.rust-lang.org" target="_blank"><img align="center" alt="Joao-Rust" src="https://icongr.am/simple/rust.svg?size=46&color=currentColor&colored=false"></a>
 </div>
 
+ \
 <FRAMEWORKS>
 <div style="display: inline-block" align="center">
 <React>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
-</div>
  
+ <Django>
+  <a href="https://www.djangoproject.com" target="_blank"><img align="center" alt="Joao-Django" src="https://icongr.am/devicon/django-original.svg?size=45&color=38bdf8"></a>
+   
+  <Bootstrap>
+  <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=7611f7"></a>
+   
+  <Tailwind>
+ <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Joao-Tailwind" src="https://icongr.am/simple/tailwindcss.svg?size=45&color=38bdf8&colored=false"></a>
+ </div>
+   
+ \  
  <FERRAMENTAS>
  <div style="display: inline-block" align="center">
   
-  <BOOTSTRAP>
-  <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=7611f7"></a>
-  
- <MYSQL>
+ <MySQL>
   <a href="https://www.mysql.com" target="_blank"><img align="center" alt="Joao-MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=45&color=currentColor"></a>
  </div>
   
