@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently learning: **Django**
+- 📘 I’m currently learning: **PHP, Elixir**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
