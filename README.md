@@ -36,7 +36,7 @@
  <a href="https://www.rust-lang.org" target="_blank"><img align="center" alt="Joao-Rust" src="https://icongr.am/simple/rust.svg?size=46&color=currentColor&colored=false"></a>
 </div>
 
- \
+\
 <FRAMEWORKS>
 <div style="display: inline-block" align="center">
 <React>
@@ -52,7 +52,7 @@
  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Joao-Tailwind" src="https://icongr.am/simple/tailwindcss.svg?size=45&color=38bdf8&colored=false"></a>
  </div>
    
- \  
+ \
  <FERRAMENTAS>
  <div style="display: inline-block" align="center">
   
