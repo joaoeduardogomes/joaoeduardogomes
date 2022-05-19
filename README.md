@@ -60,6 +60,8 @@
   <a href="https://www.mysql.com" target="_blank"><img align="center" alt="Joao-MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=45&color=currentColor"></a>
  </div>
   
+  <img align="right" alt="Joao-char" src="https://github.com/joaoeduardogomes/joaoeduardogomes/blob/main/char.gif?raw=true" width="150" height="150">
+  
 ##
   
 ### 📫 How to reach me: 
@@ -67,14 +69,8 @@
   <a href = "mailto:joaogomes.trad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-gomes-33868b14b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </span>
-  <img align="right" alt="Joao-char" src="https://github.com/joaoeduardogomes/joaoeduardogomes/blob/main/char.gif?raw=true" width="150" height="150">
+  
 
 ##
-  
-### 🕹 Playing on:
-<div>
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-</div>
+
   
