@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently learning: **Data Science, TypeScript**
+- 📘 I’m currently learning: **Data Science, Flask, PostgreSQL**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
@@ -39,17 +39,23 @@
 \
 <FRAMEWORKS>
 <div style="display: inline-block" align="center">
-<React>
-  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
- 
- <Django>
-  <a href="https://www.djangoproject.com" target="_blank"><img align="center" alt="Joao-Django" src="https://icongr.am/devicon/django-original.svg?size=45&color=38bdf8"></a>
-   
-  <Bootstrap>
+ <Bootstrap>
   <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=7611f7"></a>
    
   <Tailwind>
  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Joao-Tailwind" src="https://icongr.am/simple/tailwindcss.svg?size=45&color=38bdf8&colored=false"></a>
+   
+ <Django>
+  <a href="https://www.djangoproject.com" target="_blank"><img align="center" alt="Joao-Django" src="https://icongr.am/devicon/django-original.svg?size=45&color=38bdf8"></a>
+  
+ <Flask>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img align="center" alt="Joao-Flask" src="https://icongr.am/simple/flask.svg?size=45&color=currentColor&colored=false"></a>
+  
+<React>
+  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
+  
+ <TypeScript>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Joao-TypeScript" src="https://icongr.am/simple/typescript.svg?size=45&color=317ac6&colored=false"></a>
  </div>
    
  \
