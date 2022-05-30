@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently learning: **Data Science, Flask, PostgreSQL**
+- 📘 I’m currently learning: **Java, PostgreSQL**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
