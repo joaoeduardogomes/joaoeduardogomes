@@ -22,19 +22,7 @@
  
 <JavaScript>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor"></a>
- 
-<Cpp>
- <a href="https://docs.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank"><img align="center" alt="Joao-Cpp" src="https://icongr.am/devicon/cplusplus-original.svg?size=45&color=currentColor"></a>
- 
-<Csharp>
- <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Joao-CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=45&color=currentColor"></a>
- 
-<Golang>
- <a href="https://go.dev" target="_blank"><img align="center" alt="Joao-Golang" src="https://icongr.am/devicon/go-original.svg?size=45&color=currentColor"></a>
- 
- <Rust>
- <a href="https://www.rust-lang.org" target="_blank"><img align="center" alt="Joao-Rust" src="https://icongr.am/simple/rust.svg?size=46&color=currentColor&colored=false"></a>
-</div>
+
 
 \
 <FRAMEWORKS>
