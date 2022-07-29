@@ -22,7 +22,7 @@
  
 <JavaScript>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor"></a>
-
+</div>
 
 \
 <FRAMEWORKS>
@@ -54,7 +54,6 @@
   <a href="https://www.mysql.com" target="_blank"><img align="center" alt="Joao-MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=45&color=currentColor"></a>
  </div>
   
-  <img align="right" alt="Joao-char" src="https://github.com/joaoeduardogomes/joaoeduardogomes/blob/main/char.gif?raw=true" width="150" height="150">
   
 ##
   
@@ -64,7 +63,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-gomes-33868b14b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </span>
   
-
 ##
 
-  
+#### Want to support me on my journey?</p>
+<a href='https://ko-fi.com/P5P4E3CRU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png' alt='Buy Me a Coffee at ko-fi.com' /></a>
+ 
