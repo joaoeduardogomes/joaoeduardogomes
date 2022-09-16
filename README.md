@@ -27,6 +27,9 @@
 \
 <FRAMEWORKS>
 <div style="display: inline-block" align="center">
+ <Sass>
+  <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Joao-Sass" src="https://icongr.am/devicon/sass-original.svg?size=45&color=currentColor"></a>
+ 
  <Bootstrap>
   <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=7611f7"></a>
    
