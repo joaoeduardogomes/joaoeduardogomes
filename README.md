@@ -22,6 +22,9 @@
  
 <JavaScript>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor"></a>
+ 
+ <TypeScript>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Joao-TypeScript" src="https://icongr.am/simple/typescript.svg?size=45&color=317ac6&colored=false"></a>
 </div>
 
 \
@@ -45,8 +48,6 @@
 <React>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
   
- <TypeScript>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Joao-TypeScript" src="https://icongr.am/simple/typescript.svg?size=45&color=317ac6&colored=false"></a>
  </div>
    
  \
