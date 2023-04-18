@@ -35,6 +35,9 @@
  
  <Bootstrap>
   <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=7611f7"></a>
+  
+  <Bulma>
+  <a href="https://bulma.io/" target="_blank"><img align="center" alt="Joao-Bulma" src="https://icongr.am/simple/bulma.svg?size=45&color=00d1b2&colored=false"></a>
    
   <Tailwind>
  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Joao-Tailwind" src="https://icongr.am/simple/tailwindcss.svg?size=45&color=38bdf8&colored=false"></a>
