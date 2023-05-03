@@ -1,6 +1,6 @@
 ### Hi there 🐨
 
-- 📘 I’m currently studying: **Node.JS**, **Python**
+- 📘 I’m currently studying: **PostgreSQL**, **Python**
 - 😃 Pronouns: he/him
 - 📚 Fun fact: I enjoy writing stories sometimes
 
