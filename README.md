@@ -6,7 +6,9 @@
 <p>I believe that learning is a lifelong journey, and as a junior web developer, I'm committed to refining my skills and embracing new challenges. I stay dedicated to staying at the forefront of web development technologies and best practices.</p>
 
 <div style="display: flex" align="center">
+ <!--
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoeduardogomes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+ -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardogomes&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
