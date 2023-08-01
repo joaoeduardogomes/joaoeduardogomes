@@ -3,7 +3,7 @@
 ### Junior Web Developer | Career Changer | Aspiring to Create Web Experiences
 
 <p>As a junior web developer with a background in translation, I'm excited to transition into the world of web development. My journey as a translator has ignited a passion for creative problem-solving and building engaging web experiences.</p>
-<p>I believe that learning is a lifelong journey, and as a junior web developer, I'm committed to refining my skills and embracing new challenges. I stay dedicated to staying at the forefront of web development technologies and best practices.</p>
+<p>I believe that learning is a lifelong journey, and as a junior web developer, I'm committed to refining my skills and embracing new challenges. I am dedicated to remaining at the forefront of web development technologies and best practices..</p>
 
 <div style="display: flex" align="center">
  <!--
