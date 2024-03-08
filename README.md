@@ -58,9 +58,6 @@
 
  <Python>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Joao-Python" src="https://icongr.am/devicon/python-original.svg?size=45&color=currentColor"></a>
-   
- <Django>
-  <a href="https://www.djangoproject.com" target="_blank"><img align="center" alt="Joao-Django" src="https://icongr.am/devicon/django-original.svg?size=45&color=38bdf8"></a>
   
  <Flask>
   <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img align="center" alt="Joao-Flask" src="https://icongr.am/simple/flask.svg?size=45&color=currentColor&colored=false"></a>
