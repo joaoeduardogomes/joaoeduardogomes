@@ -97,7 +97,7 @@
   
 ### 📫 How to reach me
 <span>
-  <a href = "mailto:joaogomes.trad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dev.joaogomes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-gomes-33868b14b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
