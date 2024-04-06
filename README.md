@@ -99,7 +99,7 @@
 <span>
   <a href = "mailto:dev.joaogomes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-gomes-33868b14b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joao-eduardo-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ### 🌱 Volunteer Translator at freeCodeCamp
  <p>In addition to my web development journey, I'm currently a volunteer translator on the freeCodeCamp website, where I help make valuable educational content accessible to a broader audience in my native language, Portuguese. You can read the articles translated by me at:</p>
