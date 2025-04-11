@@ -15,12 +15,12 @@
  ---
  <p align="center">Front-end:</p>
  <FRONT-END>
-<div style="display: inline-block" align="center">
+<div align="center">
  <HTML>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML-%20?style=for-the-badge&color=orange"></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML-%20?style=for-the-badge&logo=html5&logoColor=white&color=orange"></a>
  
  <CSS>
-   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Joao-CSS" src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&color=%23214CE5"></a>
+   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Joao-CSS" src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white&color=%23214CE5"></a>
  
  <Sass>
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Joao-Sass" src="https://img.shields.io/badge/SASS-%20?style=for-the-badge&logo=sass&logoColor=white&color=%23CF649B"></a>
@@ -51,24 +51,23 @@
 <br>
 <p align="center">Back-end:</p>
 <BACK-END>
-<div style="display: inline-block" align="center">
- 
- <NodeJS>
-  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Joao-NodeJS" src="https://img.shields.io/badge/node-%23417E38?style=for-the-badge&logo=node&logoColor=black"></a>
+<div align="center">
+ <NODE>
+  <a href="https://nodejs.org/en" target="_blank"><img alt="Joao-NodeJS" src="https://img.shields.io/badge/node-%23417E38?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
- <Python>
-  <a href="https://www.python.org/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/python-%20?style=for-the-badge&logo=python&logoColor=white&color=%23204564"></a>
-  
- <Flask>
+ <PYTHON>
+  <a href="https://www.python.org/" target="_blank"><img alt="Joao-Python" src="https://img.shields.io/badge/python-%20?style=for-the-badge&logo=python&logoColor=white&color=%23204564"></a>
+
+  <FLASK>
   <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img alt="Joao-Flask" src="https://img.shields.io/badge/flask-%232A2123?style=for-the-badge&logo=flask"></a>
 
- <PostgreSQL>
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Joao-PostgreSQL" src="https://img.shields.io/badge/postgres-%20?style=for-the-badge&logo=postgresql&logoColor=white&color=%232F6792"></a>
+  <POSTGRES>
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="Joao-PostgreSQL" src="https://img.shields.io/badge/postgres-%20?style=for-the-badge&logo=postgresql&logoColor=white&color=%232F6792"></a>
 
- <MongoDB>
-  <a href="https://www.mongodb.com/developer/" target="_blank"><img align="center" alt="Joao-MongoDB" src="https://img.shields.io/badge/mongodb-%20?style=for-the-badge&logo=mongodb&logoColor=white&color=%23006848"></a>
-  
- </div>
+  <MONGODB>
+  <a href="https://www.mongodb.com/developer/" target="_blank"><img alt="Joao-MongoDB" src="https://img.shields.io/badge/mongodb-%20?style=for-the-badge&logo=mongodb&logoColor=white&color=%23006848"></a>
+</div>
+
 
  <br>
  <p align="center">Other tools:</p>
@@ -76,16 +75,16 @@
  <div style="display: inline-block" align="center">
   
  <Git>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Joao-Git" src="https://icongr.am/devicon/git-original.svg?size=45&color=currentColor"></a>
+  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Joao-Git" src="https://img.shields.io/badge/git-%20?style=for-the-badge&logo=git&logoColor=white&color=orange"></a>
 
  <Figma>
-  <a href="https://www.figma.com/" target="_blank"><img align="center" width="45" alt="Joao-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
+  <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Joao-Figma" src="https://img.shields.io/badge/figma-%20?style=for-the-badge&logo=figma&logoColor=white&color=gray"></a>
 
  <VsCode>
-  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" width="45" alt="Joao-VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Joao-VsCode" src="https://img.shields.io/badge/vscode-%20?style=for-the-badge&logo=vscode&logoColor=white&color=%230076C6"></a>
 
  <Wordpress>
-  <a href="https://br.wordpress.org/" target="_blank"><img align="center" alt="Joao-Wordpress" src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=45&color=currentColor"></a>
+  <a href="https://br.wordpress.org/" target="_blank"><img align="center" alt="Joao-Wordpress" src="https://img.shields.io/badge/wordpress-%20?style=for-the-badge&logo=wordpress&logoColor=white&color=grey"></a>
  
  </div>
   
