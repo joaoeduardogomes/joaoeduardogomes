@@ -17,34 +17,34 @@
  <FRONT-END>
 <div style="display: inline-block" align="center">
  <HTML>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Joao-HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=45&color=currentColor"></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML-%20?style=for-the-badge&color=orange"></a>
  
  <CSS>
-   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Joao-CSS" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=45&color=currentColor"></a>
+   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Joao-CSS" src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white&color=%23214CE5"></a>
  
  <Sass>
-  <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Joao-Sass" src="https://icongr.am/devicon/sass-original.svg?size=45&color=currentColor"></a>
+  <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Joao-Sass" src="https://img.shields.io/badge/SASS-%20?style=for-the-badge&logo=sass&logoColor=white&color=%23CF649B"></a>
  
  <Bootstrap>
-  <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=7611f7"></a>
+  <a href="https://getbootstrap.com" target="_blank"><img align="center" alt="Joao-Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-%20?style=for-the-badge&logo=bootstrap&logoColor=white&color=%236F2CF4"></a>
   
  <Bulma>
-  <a href="https://bulma.io/" target="_blank"><img align="center" alt="Joao-Bulma" src="https://icongr.am/simple/bulma.svg?size=45&color=00d1b2&colored=false"></a>
+  <a href="https://bulma.io/" target="_blank"><img align="center" alt="Joao-Bulma" src="https://img.shields.io/badge/BULMA-%20?style=for-the-badge&logo=bulma&logoColor=white&color=%2300D1B2"></a>
    
  <Tailwind>
-  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Joao-Tailwind" src="https://icongr.am/simple/tailwindcss.svg?size=45&color=38bdf8&colored=false"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Joao-Tailwind" src="https://img.shields.io/badge/TAILWIND%20CSS-%20?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2338BDF8"></a>
  
  <JavaScript>
-  <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor"></a>
+  <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Joao-JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-%20?style=for-the-badge&logo=javascript&logoColor=black&color=%23EFD81E"></a>
  
  <TypeScript>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Joao-TypeScript" src="https://icongr.am/simple/typescript.svg?size=45&color=317ac6&colored=false"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Joao-TypeScript" src="https://img.shields.io/badge/TYPESCRIPT-%20?style=for-the-badge&logo=typescript&logoColor=white&color=%232F74BF"></a>
 
  <React>
-  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor"></a>
+  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Joao-React" src="https://img.shields.io/badge/REACT-%20?style=for-the-badge&logo=react&logoColor=white&color=%23149ECA"></a>
 
  <NextJS>
-  <a href="https://nextjs.org/" target="_blank"><img align="center" alt="Joao-NextJS" src="https://icongr.am/simple/nextjs.svg?size=45&color=000000&colored=false"></a>
+  <a href="https://nextjs.org/" target="_blank"><img align="center" alt="Joao-NextJS" src="https://img.shields.io/badge/NEXT.JS-%20?style=for-the-badge&logo=next.js&logoColor=white&color=black"></a>
   
 </div>
 
@@ -54,22 +54,19 @@
 <div style="display: inline-block" align="center">
  
  <NodeJS>
-  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Joao-NodeJS" src="https://icongr.am/devicon/nodejs-original.svg?size=45&color=currentColor"></a>
+  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Joao-NodeJS" src="https://img.shields.io/badge/node-%23417E38?style=for-the-badge&logo=node&logoColor=black"></a>
 
  <Python>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Joao-Python" src="https://icongr.am/devicon/python-original.svg?size=45&color=currentColor"></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/python-%20?style=for-the-badge&logo=python&logoColor=white&color=%23204564"></a>
   
  <Flask>
-  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img align="center" alt="Joao-Flask" src="https://icongr.am/simple/flask.svg?size=45&color=currentColor&colored=false"></a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img alt="Joao-Flask" src="https://img.shields.io/badge/flask-%232A2123?style=for-the-badge&logo=flask"></a>
 
- <MySQL>
-  <a href="https://www.mysql.com" target="_blank"><img align="center" alt="Joao-MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=45&color=currentColor"></a>
-  
  <PostgreSQL>
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Joao-PostgreSQL" src="https://icongr.am/devicon/postgresql-original.svg?size=45&color=currentColor"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Joao-PostgreSQL" src="https://img.shields.io/badge/postgres-%20?style=for-the-badge&logo=postgresql&logoColor=white&color=%232F6792"></a>
 
  <MongoDB>
-  <a href="https://www.mongodb.com/developer/" target="_blank"><img align="center" alt="Joao-MongoDB" src="https://icongr.am/devicon/mongodb-original.svg?size=45&color=currentColor"></a>
+  <a href="https://www.mongodb.com/developer/" target="_blank"><img align="center" alt="Joao-MongoDB" src="https://img.shields.io/badge/mongodb-%20?style=for-the-badge&logo=mongodb&logoColor=white&color=%23006848"></a>
   
  </div>
 
