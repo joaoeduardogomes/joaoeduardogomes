@@ -61,6 +61,9 @@
   <FLASK>
   <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img alt="Joao-Flask" src="https://img.shields.io/badge/flask-%232A2123?style=for-the-badge&logo=flask"></a>
 
+  <FASTAPI>
+  <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-%23009485?style=for-the-badge&logo=fastapi&logoColor=%23fff">
+
   <POSTGRES>
   <a href="https://www.postgresql.org/" target="_blank"><img alt="Joao-PostgreSQL" src="https://img.shields.io/badge/postgres-%20?style=for-the-badge&logo=postgresql&logoColor=white&color=%232F6792"></a>
 
